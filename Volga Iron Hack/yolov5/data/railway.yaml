@@ -1,0 +1,6 @@
+train: img/images/
+val: img/images/
+
+nc: 3
+
+names: ['clip', 'wire', 'screw']

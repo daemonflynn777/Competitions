@@ -1,0 +1,8 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+1.jpg,137524,"{}",1,0,"{""name"":""rect"",""x"":177,""y"":329,""width"":63,""height"":80}","{""wire"":""wire""}"
+2.jpg,95112,"{}",1,0,"{""name"":""rect"",""x"":172,""y"":341,""width"":58,""height"":74}","{""wire"":""wire""}"
+3.jpg,90025,"{}",1,0,"{""name"":""rect"",""x"":177,""y"":341,""width"":48,""height"":73}","{""wire"":""wire""}"
+4.jpg,104168,"{}",1,0,"{""name"":""rect"",""x"":178,""y"":378,""width"":38,""height"":67}","{""wire"":""wire""}"
+5.jpg,107963,"{}",1,0,"{""name"":""rect"",""x"":182,""y"":336,""width"":53,""height"":71}","{""wire"":""wire""}"
+6.jpg,92258,"{}",1,0,"{""name"":""rect"",""x"":177,""y"":335,""width"":43,""height"":95}","{""wire"":""wire""}"
+7.jpg,74514,"{}",1,0,"{""name"":""rect"",""x"":169,""y"":332,""width"":35,""height"":79}","{""wire"":""wire""}"

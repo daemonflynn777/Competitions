@@ -1,0 +1,11 @@
+torch==1.12.1
+torchvision==0.13.1
+scikit-learn
+numpy
+tqdm
+pandas
+opencv-python
+#tensorflow
+transformers
+fire
+pymorphy2
